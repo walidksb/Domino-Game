@@ -133,7 +133,9 @@ make clean all
 This design keeps the logic modular, testable, and close to the project specification.
 
 ---
-@2025
 
 This project was developed for educational purposes (university coursework / TP).
 If you reuse or adapt this code, please credit the authors.
+
+**Authors:** Walid KESBI & ABDELHAKIM NAHILI
+**Date:** 12/11/2025
