@@ -1,6 +1,6 @@
 # Domino Game (GTKmm + Cairo) 🎲
 
-A desktop **Domino game** implemented in **C++** using **GTKmm 3** for the graphical user interface and **Cairo** for 2D rendering.
+A desktop **Domino game** implemented in **C++** using **GTKmm 3** for the graphical user interface and **Cairo** for 2D rendering.  
 Players can interact with dominos using the mouse (drag & drop), while a **magnetic grid** helps align pieces precisely on the board.
 
 ---
@@ -134,7 +134,7 @@ This design keeps the logic modular, testable, and close to the project specific
 
 ---
 ## 📄 License
-This project was developed for educational purposes (university coursework).
+This project was developed for educational purposes (university coursework).  
 If you reuse or adapt this code, please credit the authors.
 
 **Authors:** Walid KESBI & ABDELHAKIM NAHILI  
