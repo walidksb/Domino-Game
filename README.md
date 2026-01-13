@@ -133,7 +133,7 @@ make clean all
 This design keeps the logic modular, testable, and close to the project specification.
 
 ---
-
+## 📄 License
 This project was developed for educational purposes (university coursework / TP).
 If you reuse or adapt this code, please credit the authors.
 
