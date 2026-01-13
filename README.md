@@ -134,8 +134,8 @@ This design keeps the logic modular, testable, and close to the project specific
 
 ---
 ## 📄 License
-This project was developed for educational purposes (university coursework / TP).
+This project was developed for educational purposes (university coursework).
 If you reuse or adapt this code, please credit the authors.
 
-**Authors:** Walid KESBI & ABDELHAKIM NAHILI
+**Authors:** Walid KESBI & ABDELHAKIM NAHILI  
 **Date:** 12/11/2025
