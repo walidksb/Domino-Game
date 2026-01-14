@@ -3,7 +3,7 @@
 A desktop **Domino game** implemented in **C++** using **GTKmm 3** for the graphical user interface and **Cairo** for 2D rendering.  
 Players can interact with dominos using the mouse (drag & drop), while a **magnetic grid** helps align pieces precisely on the board.
 
----
+----
 
 ## ✨ Features
 
